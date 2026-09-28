@@ -1,1 +1,1 @@
-fake content alert("Alert from ex1.js");
+alert("FAKE CONTENT:\nAlert from ex1.js");
